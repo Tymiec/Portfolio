@@ -1,5 +1,5 @@
 # Moje GameDevowe portfolio
-For english click here ➡️ [![Language: English](https://img.shields.io/badge/language-english-blue)](Portfolio_ENG.md)
+For english click here ➡️ [![Language: English](https://img.shields.io/badge/language-english-blue)](README_EN.md)
 ## Projekty
 Projekty w których brałem udział lub aktualnie nad nimi pracuję
 

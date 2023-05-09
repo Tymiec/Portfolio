@@ -18,6 +18,8 @@ Tycoon stworzony w Unity, w którym gracz wciela się w rolę przemytnika, któr
 W grze gracz musi zarządzać swoim biznesem, kupować nowe pojazdy, zatrudniać pracowników, ulepszać pojazdy oraz kupować nowe w miejsce tych które zostały skonfiskowane przy nieudanym przemycie.
 W czasie Jamu odpowiadałem za dopracowanie pomysłu na gameplay, game design, balans ekonomii oraz tworzenie assetów i finalnie przygotowanie materiału promocyjnego widocznego poniżej.
 
+Kliknij aby obejrzeć ⬇️
+
 [![Border Hustle](https://img.youtube.com/vi/mDIgnPSH58s/0.jpg)](https://www.youtube.com/watch?v=mDIgnPSH58s)
 
 Gra jest dostępna na platformie [itch.io](https://kimel.itch.io/border-hustle)
@@ -35,6 +37,8 @@ Pomysł na gameplay był prosty. FPS w którym gracz ma umierać ale umieranie m
 Gdy gracz umiera zapamiętuje on przeciwnika (przeciwnik jest podświetlony przez ścianę) co pomaga mu szybciej namierzać przeciwników.
 Czas na przejście poziomu jest ograniczony, więc gracz musi szybko próbować przez niego przebiec a nie czekać na przeciwników.
 
+Kliknij aby obejrzeć ⬇️
+
 [![RHYD](https://img.youtube.com/vi/86KZ4Nj9hCU/0.jpg)](https://www.youtube.com/watch?v=86KZ4Nj9hCU)
 
 Gra jest dostępna na platformie [itch.io](https://tymiec1337.itch.io/remember-how-you-die)
@@ -45,6 +49,8 @@ _________________
 Prosta gra w statki zrobiona w klimacie pixel artu oraz z 64bitową muzyką.
 Zrobiona samodzielnie przy pomocy PyGame na zaliczenie przedmiotu Język Python.
 
+Kliknij aby obejrzeć ⬇️
+
 [![Battleships](https://img.youtube.com/vi/Qukui6VCXMo/0.jpg)](https://www.youtube.com/watch?v=Qukui6VCXMo)
 
 Gra jest dostępna na moim repozytorium [github.com](https://github.com/Tymiec/Battleships/releases/tag/v0.9.1)
@@ -54,6 +60,8 @@ _________________
 Gra na silniku Unity w której jesteśmy kulą która musi się przedostać przez poziomy, unikając przeszkód czy korzystając z boostów rozsianych po mapie aby przejść dalej.
 Zrobiona głównie z myślą o nauce New Input Systemu oraz fizyki silnika Unity ale posłużyła także do nauki nowego UI Toolkitu do stworzenia menu.
 Aktualnie czekam na wenę do stworzenia do niej ciekawych poziomów
+
+Kliknij aby obejrzeć ⬇️
 
 [![GBall](https://img.youtube.com/vi/HjbvXNWpHyQ/0.jpg)](https://www.youtube.com/watch?v=HjbvXNWpHyQ)
 

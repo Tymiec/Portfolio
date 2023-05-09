@@ -84,7 +84,7 @@ Pliki wszystkich assetów które stworzyłem są dostępne na moim repozytorium:
 [MyAssets](https://github.com/Tymiec/MyAssets)
 <!-- Tutaj będzie link do showcase'u tej strony -->
 
-## Projekty/Social media
+## Pozostałe Projekty/Social media
 
 [Strona Ośrodka AWF](https://osrodekawf.pl/) - w trakcie przebudowy
 

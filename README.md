@@ -77,10 +77,10 @@ Aktualnie odpowiadam za testowanie gry, tworzenie poziomów oraz pomagam przy po
 ## Assety
 _________________
 
-Najlepsze modele dostępne do szybkiego podglądu na sketchfabie:
+Najlepsze modele dostępne do szybkiego podglądu na sketchfabie: 
 [Sketchfab](https://sketchfab.com/tymiec/models)
 
-Pliki wszystkich assetów które stworzyłem są dostępne na moim repozytorium:
+Pliki wszystkich assetów które stworzyłem są dostępne na moim repozytorium: 
 [MyAssets](https://github.com/Tymiec/MyAssets)
 <!-- Tutaj będzie link do showcase'u tej strony -->
 

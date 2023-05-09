@@ -1,79 +1,89 @@
-# My GameDev portfolio
+# My GameDev Portfolio
+For Polish click here ➡️ [![Language: Polish](https://img.shields.io/badge/language-polish-red)](README.md)
 ## Projects
-Projects that I have worked on or I am currently working on.
+Projects I participated in or am currently working on
 
-| Project	 	           | Repo                                                                     | Role                                                            | Genre         |
-|----------------------|--------------------------------------------------------------------------|:----------------------------------------------------------------|---------------|
-| Remember how you Die | [Link](https://github.com/Kimel-PK/Remember_How_You_Die_SpaceJam2022)    | Team leader, Game Designer, 3D Artist, Level Designer           | FPS           |
-| Battleships          | [Link](https://github.com/Tymiec/Battleships)                            | Everything                                                      | 2D board game |
-| GBall                | [Link](https://github.com/Tymiec/GBall)                                  | Everything                                                      | Arcade        |
-| Border Hustle        | [Link](https://github.com/OldLord-dev/Border-Hustle/tree/space-jam-2023) | Team leader, Game Designer, 3D Artist, Economy Designer, Tester | Tycoon        |
-| Superposition        | Not public                                                               | QA Tester, Level designer                                       | Logic game    |
-
-
-### Remember how you Die
-_________________
-
-[//]: # ()
-[//]: # (FPS przygotowany w czasie 24h na Space Jam 2022 - organizowanym przez koło GSA UJ - którego tematem była **_pamięć_**.)
-
-[//]: # ()
-[//]: # (W grze wcielamy się w postać, która musi walczyć z czasem i korzystać ze swojej pamięci.)
-
-[//]: # ()
-[//]: # (**Moja rola w projekcie:**)
-
-[//]: # (W tym projekcie byłem liderem zespołu i twórcą pomysłu na całą grę który będzie zgodny z tematem jamu oraz odpowiadałem za assety.)
-
-[//]: # (Pomysł na gameplay był prosty. FPS w którym gracz ma umierać ale umieranie ma pomagać mu w przechodzeniu poziomu. )
-
-[//]: # (Gdy gracz umiera zapamiętuje on przeciwnika &#40;przeciwnik jest podświetlony przez ścianę&#41; co pomaga mu szybciej namierzać przeciwników.)
-
-[//]: # (Czas na przejście poziomu jest ograniczony, więc gracz musi szybko próbować przez niego przebiec a nie czekać na przeciwników.)
-
-
-Game is available at [itch.io](https://tymiec1337.itch.io/remember-how-you-die)
-
-
-### Battleships
-_________________
-
-Simple battleships game made in pixel art style with 64bit music.
-Made solo using PyGame for Python class project.
-
-Game is available at [github.com](https://github.com/Tymiec/Battleships/releases/tag/v0.9.1)
-
-### GBall
-_________________
-
-[//]: # (Gra na silniku Unity w której jesteśmy kulą która musi się przedostać przez poziomy, unikając przeszkód czy korzystając z boostów rozsianych po mapie aby przejść dalej.)
-
-[//]: # (Zrobiona głównie z myślą o nauce New Input Systemu oraz fizyki silnika Unity ale posłużyła także do nauki nowego UI Toolkitu do stworzenia menu.)
-
-[//]: # (Aktualnie czekam na wenę do stworzenia do niej ciekawych poziomów)
-
-Game is currently available only as Unity project [github.com](https://github.com/Tymiec/GBall)
+| Project                  | Repository                                                              | Role                                                            | Genre         |
+|------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|---------------|
+| Remember How You Die  | [Link](https://github.com/Kimel-PK/Remember_How_You_Die_SpaceJam2022)  | Team leader, Game Designer, 3D Artist, Level Designer           | FPS           |
+| Battleships             | [Link](https://github.com/Tymiec/Battleships)                          | Everything                                                      | 2D board game |
+| GBall                    | [Link](https://github.com/Tymiec/GBall)                                | Everything                                                      | Arcade        |
+| Border Hustle          | [Link](https://github.com/OldLord-dev/Border-Hustle/tree/space-jam-2023)| Team leader, Game Designer, 3D Artist, Economy Designer, Tester | Tycoon        |
+| Superposition          | Private                                                                 | QA Tester, Level designer                                       | Logic game    |
 
 ### Border Hustle
 _________________
 
-[//]: # (Tycoon stworzony w Unity, w którym gracz wciela się w rolę przemytnika, który musi przemycić jak najwięcej towaru przez granicę.)
+A tycoon game created in Unity where the player assumes the role of a smuggler who has to smuggle as much goods across the border as possible. In the game, the player has to manage their business, buy new vehicles, hire workers, upgrade vehicles, and buy new ones to replace those that have been confiscated in failed smuggling operations. During the Jam, I was responsible for refining the gameplay idea, game design, economic balance, creating assets, and finally preparing the promotional material visible below.
 
-[//]: # (W grze gracz musi zarządzać swoim biznesem, kupować nowe pojazdy, zatrudniać pracowników, ulepszać pojazdy oraz kupować nowe w miejsce tych które zostały skonfiskowane przy nieudanym przemycie.)
-
-[//]: # (W czasie Jamu odpowiadałem za dopracowanie pomysłu na gameplay, game design, balans ekonomii oraz tworzenie assetów i finalnie przygotowanie materiału promocyjnego widocznego poniżej.)
+Click to watch ⬇️
 
 [![Border Hustle](https://img.youtube.com/vi/mDIgnPSH58s/0.jpg)](https://www.youtube.com/watch?v=mDIgnPSH58s)
 
-Game is available at [itch.io](https://kimel.itch.io/border-hustle)
+The game is available here [itch.io](https://kimel.itch.io/border-hustle).
+
+### Remember How You Die
+_________________
+
+FPS prepared during the 24-hour Space Jam 2022 - organized by the GSA UJ circle - the theme of which was **_memory_**.
+
+In the game, we play as a character who must fight against time and use their memory.
+
+**My role in the project:**
+In this project, I was the team leader and the creator of the idea for the entire game that would be consistent with the theme of the jam, and I was responsible for the assets. The gameplay idea was simple. An FPS where the player is supposed to die, but dying helps them complete the level. When the player dies, they remember the enemy (the enemy is highlighted through the wall), which helps them target enemies faster. The time to complete the level is limited, so the player has to quickly try to run through it and not wait for the enemies.
+
+Click to watch ⬇️
+
+[![RHYD](https://img.youtube.com/vi/86KZ4Nj9hCU/0.jpg)](https://www.youtube.com/watch?v=86KZ4Nj9hCU)
+
+The game is available here [itch.io](https://tymiec1337.itch.io/remember-how-you-die).
+
+### Battleships
+_________________
+
+A simple game of battleships done in pixel art style and with 64-bit music. Made independently with the help of PyGame to pass the Python Language subject.
+
+Click to watch ⬇️
+
+[![Battleships](https://img.youtube.com/vi/Qukui6VCXMo/0.jpg)](https://www.youtube.com/watch?v=Qukui6VCXMo)
+
+The game is available on my repository [github.com](https://github.com/Tymiec/Battleships/releases/tag/v0.9.1)
+
+### GBall
+_________________
+
+A game on the Unity engine in which we are a ball that has to get through levels, avoiding obstacles or using boosts scattered around the map to get further. Made mainly with the thought of learning the New Input System and Unity engine physics but also served to learn the new UI Toolkit for creating menus. I'm currently waiting for inspiration to create interesting levels for it.
+
+Click to watch ⬇️
+
+[![GBall](https://img.youtube.com/vi/HjbvXNWpHyQ/0.jpg)](https://www.youtube.com/watch?v=HjbvXNWpHyQ)
+
+The game is available on my repository for now only as a full repository [github.com](https://github.com/Tymiec/GBall)
 
 ### Superposition
 _________________
 
-[//]: # (Gra logiczna z wykorzystaniem fizyki kwantowej. Aktualnie znajduje się w zamkniętych testach i nie jest dostępna publicznie. W przyszłości zostanie wydana na steamie.)
-
-[//]: # (Aktualnie odpowiadam za testowanie gry, tworzenie poziomów oraz pomagam przy podejmowaniu decyzji dotyczących rozwoju gry.)
+A logic game using quantum physics and is in the closed testing phase. It will be released on Steam in the future. Currently, I am responsible for testing the game, creating levels, and assisting in making decisions related to game development.
 
 ## Assets
 _________________
-All my asset file are available on my repo [MyAssets](https://github.com/Tymiec/MyAssets)
+
+The best models available for quick preview on Sketchfab: [Sketchfab](https://sketchfab.com/t
+
+Files of all the assets I've created are available on my repository: [MyAssets](https://github.com/Tymiec/MyAssets)
+
+## Projects/Social Media
+
+[Ośrodek AWF Website](https://osrodekawf.pl/) - currently WIP
+
+[AQUA s.c. Website](https://aquacs.pl/) - currently WIP
+___
+
+[E-learning platform based on Moodle](https://szkolenia.aquacs.pl/) - currently WIP
+
+___
+[Ośrodek AWF Facebook](https://www.facebook.com/osrodekawf)
+
+[Domek na Cyplu Facebook](https://www.facebook.com/domeknacyplu)
+
+[Ośrodek AWF Instagram](https://www.instagram.com/osrodekawf/)

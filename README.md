@@ -74,6 +74,8 @@ _________________
 Gra logiczna z wykorzystaniem fizyki kwantowej i jest w fazie zamkniętych testów. W przyszłości zostanie wydana na steamie.
 Aktualnie odpowiadam za testowanie gry, tworzenie poziomów oraz pomagam przy podejmowaniu decyzji dotyczących rozwoju gry.
 
+[Link do strony na Steamie](https://store.steampowered.com/app/2352130/SuperPozycja/)
+
 ## Assety
 _________________
 

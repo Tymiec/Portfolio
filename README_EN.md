@@ -65,6 +65,7 @@ _________________
 
 A logic game using quantum physics and is in the closed testing phase. It will be released on Steam in the future. Currently, I am responsible for testing the game, creating levels, and assisting in making decisions related to game development.
 
+[Link to steam page](https://store.steampowered.com/app/2352130/SuperPozycja/)
 ## Assets
 _________________
 
